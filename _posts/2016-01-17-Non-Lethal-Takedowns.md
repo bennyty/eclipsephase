@@ -50,9 +50,9 @@ Yuno tries to read the body language of worker 2 (83), fails to discern anything
 Punches twice to the chest (03 24 vs 76 34) both landing because of pod's broken leg, 7 and 13 damage, blasting the off balance morph off it's feet
 Yuno springs off the momemtum from #4 to elbow strike #5 (33 and 46) punch finds a fleshy part of the morph dealing 13 damage to the nose.
 Morph 5,6,8 and COD remain
-#6 lunges for a tackle (37) successfully pinning Yuno to the ground (deja vu inc.)
-#8 sprints forward like a soccer striker working to kick the head. Fails the called shot but strikes the armor dealing 11 - 10 damage from armor
-#5 follows suit and kicks (06) landing on the body for, 9 + 8 + 2 - 10, 11 damage, dealing one (ignored) wound
+\#6 lunges for a tackle (37) successfully pinning Yuno to the ground (deja vu inc.)
+\#8 sprints forward like a soccer striker working to kick the head. Fails the called shot but strikes the armor dealing 11 - 10 damage from armor
+\#5 follows suit and kicks (06) landing on the body for, 9 + 8 + 2 - 10, 11 damage, dealing one (ignored) wound
 Crabby old dude laughs manically as his goons hold down the monster
 
 -- Initiative roll -- 
@@ -61,22 +61,22 @@ Yuno goes first of course
 Tries to break the grapple (07) moxies to (70) for a guaranteed break
 Fails to connect on #8
 Sweeps #8's legs (07) moxies to (70) hitting for 19 damage, 2 wounds which trips #8 knocking them to the floor
-#8 fails to connect his redeeming kick
+\#8 fails to connect his redeeming kick
 Yuno lashes out at #6's knees but #6 dances out of the way
 Yuno runs out of threat range of #6
 Grumpy crab bears down on Yuno snapping its claws at them. one missing and one deflected
-#5 is a fucboi and misses his punches with blood pouring down his nose
+\#5 is a fucboi and misses his punches with blood pouring down his nose
 
 -- Initiative roll -- 
 
 Yuno 1-2 punch. Hits and does 5 and 9 damage. #5 stays upright
 Yuno kicks the crab in the shin. 13 damage, 1 wound
 It's legs give out temporarily and it falls belly first splayed on the floor
-#8 throws rocks
-#6 throws rock (19) hits and rolls 9 + 2, cheers with triumph as armour blocks 10 damage :(
+\#8 throws rocks
+\#6 throws rock (19) hits and rolls 9 + 2, cheers with triumph as armour blocks 10 damage :(
 Crab claw pinch hits but does not pierce armor
 Crab claw pinch is punched out of mid air
-#5 is a fucboi and misses his punches with blood 
+\#5 is a fucboi and misses his punches with blood 
 
 -- Initiative roll -- 
 
@@ -85,7 +85,7 @@ SHe then kicks for 13 - 7 damage
 Krabby pinches!! (00) does 8+5+4-10 damage for 1 wound!!
 Krabby pinches!! (29) does 9+2+4-10 damage
 Rock falls, no damage
-#5 is a fucboi and misses his kick
+\#5 is a fucboi and misses his kick
 
 -- Initiative roll -- 
 
@@ -99,7 +99,7 @@ Kick hits for 1 damage
 
 Yuno's kick does not penetrate armor but
 Krabby boi is dead :(
-#5's skull is crushed by punches
+\#5's skull is crushed by punches
 1 damage rock!
 
 -- Initiative roll -- 
