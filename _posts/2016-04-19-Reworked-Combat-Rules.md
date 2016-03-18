@@ -7,12 +7,11 @@ Critical fray
 Feinting:
 	
 	Characters fighting in close combat may attempt to make their strike more
-	difficult to avoid. Targets attempting to avoid such attacks may only use
-	3/4 of their Fray or Melee combat skill to defend against the attack, but
-	the attacker suffers a -30 penalty on their attack roll. The character may
-	expend Quick actions in an identical manner to Aiming (EP, p190, p193) a
-	ranged weapon prior to the attack, which reduces the penalty to -20
-	respectively.
+	difficult to avoid. The attacker may "feint" as a Called Shot to force the
+	defender to use 3/4 of their Fray or Melee combat skill to defend against the
+	attack roll.  This makes the attacker subject to a -10 penalty to their attack,
+	as per Called Shot rules (EP, p.197).  Feinting requires a Quick Action to
+	execute the necessary footwork required to confound the opponent.
 
 Extra Melee Weapons:
 
@@ -28,18 +27,18 @@ Weapon Sets:
 
 Disengaging:
 
-	Moving out of melee range is a quick action, with the person trying to
+	Moving out of melee range is a Quick Action, with the person trying to
 	escape rolling Fray/Freerunning-20 vs the others Melee skill. If you fail,
 	you not only don't go anywhere, but you take a free hit at half damage from
 	the person you were trying to get away from.
 
-	You can make it a complex action instead of a quick action to remove the
+	You can make it a complex action instead of a Quick Action to remove the
 	-20 penalty without oppurtunity for a return attack.
 
 Cumbersome Gear Rating:
 	
 	Some weapons have a -30 to hit if not properly braced.
-	Aiming with quick action removes this penalty.
+	Aiming with Quick Action removes this penalty.
 	Aiming with a complex action gives the next shot a +20 to hit.
 
 Aiming
@@ -123,7 +122,7 @@ same manner.
 
 	Flex: The smartmaterials in this weapon are programmed to shift it's form to
 	something more innocuous when activated, such such as a piece of clothing or
-	briefcase. Activating this modification requires a Quick action, which can be
+	briefcase. Activating this modification requires a Quick Action, which can be
 	combined with the action to draw or holster the weapon. Security personnel and
 	weapon scanners can only identify the true nature of these weapons if they
 	score a critical success on a perception check. [Low]
