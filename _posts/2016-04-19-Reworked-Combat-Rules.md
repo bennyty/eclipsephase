@@ -1,3 +1,10 @@
+Movement:
+
+	A character may move any distance they want on their initiative
+	counts as long as their total movement during the round does not exceed their
+	maximum.
+
+
 Critical fray
 
 	Critical success in fray rolls in melee allows the defender to gain +10 on their next hit.
